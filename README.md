@@ -7,3 +7,5 @@ Brief Description Of Some Unity API.
      >Initialize:new Vector2>theMaterial.GetTexture("_MainTex");
   *public void SetTextureOffse()(String name,Vector2 value);
   
+Destroy(gameobjet,time);
+Instiatiate(gameobject,position,rotation);
